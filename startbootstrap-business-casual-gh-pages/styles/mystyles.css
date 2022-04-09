@@ -1,0 +1,37 @@
+/*! Spencer Kennedy 04/08/2022 */
+
+.alttext {
+    color: white;
+ }
+
+ .home {
+    color: #06068b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+ }
+
+.foot {
+    color:cornsilk;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.picture {
+    left: 400px;
+}
+
+.aboutme { 
+        color: rgb(11, 59, 75);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-decoration: underline;
+        font-weight: bold;
+}
+
+.aboutmeparagraph {
+    color: rgb(11, 59, 75);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-decoration:solid;
+        font-weight: bold;
+}
